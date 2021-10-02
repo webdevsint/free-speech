@@ -20,10 +20,10 @@ axios({
 ## Response:
 ```
 {
-  "from":"en",
-  "to":"it",
-  "text":"Hello World!",
-  "translation":"Ciao mondo!"
+  "from": "en",
+  "to": "it",
+  "text": "Hello World!",
+  "translation": "Ciao mondo!"
 }
 ```
 
