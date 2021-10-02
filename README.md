@@ -137,5 +137,5 @@ axios({
 107.  Yiddish = yi  
 108.  Yoruba = yo  
 109.  Zulu = zu  
-> **Version 1.0 APLHA**
+> **Version 1.0 APLHA**  
 > Powered by [Google Translate](https://translate.google.com).
